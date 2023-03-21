@@ -1,2 +1,2 @@
-# iniciar
- Primeiro git
+# iniciando projeto
+ Primeira aula de git e git hub
